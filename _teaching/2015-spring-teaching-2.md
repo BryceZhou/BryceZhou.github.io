@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Robust Control"
 collection: teaching
-type: "Workshop"
+type: "Lecture"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Duisburg-Essen, Department of Electrical Engineering"
 date: 2015-01-01
-location: "City, Country"
+location: "Duisburg, Germany"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
